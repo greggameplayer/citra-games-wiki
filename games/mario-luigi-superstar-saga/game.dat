@@ -1,0 +1,19 @@
+title = "Mario & Luigi Superstar Saga"
+description = "It's the first opus of the series of \"Mario & Luigi\" remake for 3ds with a new little story add to the previous."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001B9000"
+region = "eur"
+release_date = "2017-09-06"
+
+[[testcases]]
+title = "00040000001B9000"
+compatibility = "1"
+date = "2017-11-13"
+version = "HEAD-8102cbf"
+cpu = "AMD FX 6300"
+gpu = "GeForce GTX 960"
+os = "Windows 7"
+author = "greggameplayer"
