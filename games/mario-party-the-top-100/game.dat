@@ -1,5 +1,5 @@
 title = "Mario Party: The Top 100"
-description = "That's a compilation of the best 100 minigames of mario party 1 to mario party 10 without mario party ds, mario party: island tour and mario party: star rush."
+description = "Mario Party: The Top 100 is a party video game developed by Nd Cube and published by Nintendo for Nintendo 3DS. It is a compilation of the 100 best minigames throughout the Mario Party series."
 needs_system_files = true
 needs_shared_font = true
 
@@ -13,7 +13,7 @@ title = "00040000001c4e00"
 compatibility = "1"
 date = "2017-11-19"
 version = "HEAD-0c69c5f"
-cpu = "AMD FX 6300"
-gpu = "Geforce GTX 960"
-os = "Windows 7 Professional"
+cpu = "AMD FX-6300"
+gpu = "Nvidia Geforce GTX 960"
+os = "Windows 7 Professional 6.1.7601"
 author = "greggameplayer"
