@@ -1,6 +1,6 @@
 title = "Mario and Donkey Kong: Minis on the Move"
 description = "Mario and Donkey Kong: Minis on the Move is a puzzle video game and is the fifth game in the Mario vs. Donkey Kong series published and edited by Nintendo."
-github_issues = "3182"
+github_issues = [3182]
 needs_system_files = true
 needs_shared_font = true
 game_type = "eshop"
