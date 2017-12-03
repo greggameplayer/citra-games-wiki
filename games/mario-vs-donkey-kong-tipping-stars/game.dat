@@ -1,5 +1,6 @@
 title = "Mario vs. Donkey Kong: Tipping Stars"
 description = "Mario vs. Donkey Kong: Tipping Stars is a puzzle video game developed by Nintendo Software Technology and published by Nintendo. It is the sixth game in the Mario vs. Donkey Kong series."
+github_issues = 3183
 needs_system_files = true
 needs_shared_font = true
 game_type = "eshop"
