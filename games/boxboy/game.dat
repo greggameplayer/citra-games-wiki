@@ -1,0 +1,20 @@
+title = "BOXBOY!"
+description = "Solve a lot of puzzles in BOXBOY !, available exclusively on the Nintendo eShop of the Nintendo 3DS family consoles! In this 2D platformer, you use blocks to overcome obstacles and reach the end of each stage.\n\nEditor : Nintendo\nGenre : Platforms, Puzzle"
+needs_system_files = true
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000154600"
+region = "tout"
+release_date = "2015-04-02"
+
+[[testcases]]
+title = "0004000000154500"
+compatibility = "1"
+date = "2017-11-19"
+version = "HEAD-4f13d6f"
+cpu = "AMD Athlon II X2 220"
+gpu = "ATI Radeon HD 4250"
+os = "Windows 10 16299"
+author = "Gamevita"
